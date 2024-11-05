@@ -8,4 +8,3 @@ Sub-Issues:
 - Database development
 - Backend logic for credit-based hints
 - Map integration
-- Testing and quality assurance
