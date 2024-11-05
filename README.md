@@ -9,5 +9,3 @@ Sub-Issues:
 - Backend logic for credit-based hints
 - Map integration
 - Testing and quality assurance
-- Documentation creation
-
